@@ -2,6 +2,31 @@
 
 ## About me
 
+### What are some honest, unfiltered things about you?
+* *Tell us about things that others may not easily discern about you.*
+	
+### What drives you nuts?
+* *Tell us about your pet peeves. These are things that put you in a bad mood.*
+
+### What are your quirks?
+* *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
+		
+### What are some things that people might misunderstand about you that you should clarify?
+* *Think of some labels people may apply to you. Tell us why those are wrong.*
+
+## About my colleagues
+
+### What qualities do you particularly value in your colleagues?
+- I love working with people who are empathetic and challenge me. 
+
+### What do you wish colleagues didn’t do?
+* *Think of the people you avoid at work. What are their characteristics?*
+	
+### How can people earn an extra gold star with you?
+* *Think of the time when a colleague puts a smile on your face. What did they just do?*
+
+## About my interactions
+
 ### What’s the best way to communicate with me (inside GitHub)?
 💛 I love people.💛
 
