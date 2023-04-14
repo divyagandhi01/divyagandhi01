@@ -5,8 +5,8 @@
 ### What are some honest, unfiltered things about you?
 * I'm a wannabe artist at my craft- never perfect, only reasonably good. Perseverance and solving simple problems keeps me employed. 
 * Auth and identity are the only solved problems in tech. You can't say "it-depends" when you're presented with a valid jwt.
-* My household is full of token trash talk. I married another engineer in Micrsoft STS.
-* English isn't my first language. I grew up in India- I learnt Brit English and watched American TV. 
+* My household is full of token trash talk. My partner is an IC in Micrsoft STS.
+* English isn't my first language. I grew up in India, learnt Brit English and watched American TV. 
 * I requested Profile READMEs feature on twitter and got a shout-out during github all-hands. That was also my first all-hands as GitHub employee.
 
 ### What’s the best way to communicate with me (inside GitHub)?
