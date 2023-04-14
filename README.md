@@ -7,12 +7,9 @@
 * Auth and identity are the only solved problems in tech.
 * English isn't my first language. 
 
-### What are some things that people might misunderstand about you that you should clarify?
-* *Think of some labels people may apply to you. Tell us why those are wrong.*
-* 
 ### What’s the best way to communicate with me (inside GitHub)?
-💛 I love people.💛
 
+💛 I love people.💛
 💙 I love seeing people on Zoom and talking to beautiful humans. The zoom fatigue thing that's hitting everyone. Nope, not me. I promise! 🍿
 
 My GitHub calendar is public and I'm happy to talk to you any day, just block some time on my calendar with an agenda. If you want to _just see me_, just add the agenda as _"👋 Divya, long time, no see."_ If you need something from me, just state it in the agenda to help me help you.
