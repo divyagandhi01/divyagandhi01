@@ -2,6 +2,14 @@
 
 ## About me
 
+### What are some honest, unfiltered things about you?
+* I'm a wannabe artist at my craft- never perfect, only reasonably good. Perseverance and solving simple problems keeps me employed. 
+* Auth and identity are the only solved problems in tech.
+* English isn't my first language. 
+
+### What are some things that people might misunderstand about you that you should clarify?
+* *Think of some labels people may apply to you. Tell us why those are wrong.*
+* 
 ### What’s the best way to communicate with me (inside GitHub)?
 💛 I love people.💛
 
@@ -20,8 +28,8 @@ However, in case you are optimizing for your focus hours and want to meet me asy
 * I usually get out of their way and ask questions. I learnt that people really know a lot about where they want to be and mostly need feedback about their approach. I ask questions to listen and deep-dive into any issues. Occasionally, I help them quantify and articulate their own fears or doubts. 
 	
 ### What’s the best way to convince you to do something?
-* Seeing is believing. Tell me what's your motivation to pursue the current direction/decision, tell me what are you optimizing for? My super-secret, super-awesome tool to build alignment: [this](https://fastgood.cheap/)! 
+* Seeing is believing. Tell me what's your motivation to pursue the current direction. Tell me what are you optimizing for? My super-secret, super-awesome tool to build alignment: [this](https://fastgood.cheap/)! 
 	 
 ### How do you like to give feedback?
 * If it's impacting any ongoing conversation or collaboration effort, I will provide direct feedback in slack DM. Things like: 'Hey, this is how we can work better together' or 'Hey, help me understand what I'm doing!' I'll usually be brief and try to find some common ground where we can build trust.
-* If you request me direct feedback for your professional/career growth, I'll be explicit and rely on quarterly reflectives with clear examples. Things like: 'Hey, remember when that customer bulldozed us to do things, here's how I think we could have dealt with that conversation better.' I'll try to provide a clear feedback and include actionable items. Things like 'love-your-CI-skills', 'fond-of-your-summary-docs',  'please-use-more-documentation', 'write-more-tests' etc. Unless I can provide actionable items, my feedback is personal and doesn't apply universally for anyone! If it's not actionable feedback, I would reverse sides and ask you for more feedback on our working relationship. Remember line-1 of this README? 💜💜
+* If you request me direct feedback for your professional/career growth, I'll be explicit and rely on quarterly reflectives with clear examples. Things like: 'Hey, remember when that customer bulldozed us to do things, here's how I think we could have dealt with that conversation better.' I'll provide clear feedback and include actionable items. Things like 'love-your-CI-skills', 'fond-of-your-summary-docs',  'please-use-more-documentation', 'write-more-tests' etc. I'll refrain from providing feedback unless it's actionable. 💜💜
